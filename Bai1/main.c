@@ -261,7 +261,7 @@ int main(void) {
                 printf("Chuong trinh ket thuc !!!");
                 break;
             default:
-                printf("Lua chon khong hop le !!! Hay chon lai .");
+                printf("Lua chon khong hop le !!! Hay chon lai .\n");
         }
 
     } while (choice != 8);
